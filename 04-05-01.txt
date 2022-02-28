@@ -1,0 +1,9 @@
+Students should list the advanced points they have completed:
+
+    - Boids bounce off each other
+    - Boids bounce off obstacles
+    - Visually obvious flocking behavior (alignment, separation)
+    - alignment flocking behavior
+    - cohesion flocking behavior
+    - mouse attraction flocking behavior
+    - added slider or checkbox that alters steering behavior
